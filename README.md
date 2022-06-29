@@ -12,7 +12,7 @@ or online advertising.
 The practical sessions provide hands-on experience on interesting applications 
 (e.g., online face recognizer) and state-of-the-art graphs processing tools (e.g., GraphLab).
 
-## Thèmes abordés
+## Themes
 
 spectral graph theory,  graph Laplacians and spectral clustering
 
